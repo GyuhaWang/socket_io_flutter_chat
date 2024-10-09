@@ -27,10 +27,7 @@ socket_io_client 를 사용한 flutter 채팅어플
   <li>
     project>lib>variables.dart 안에 서버의 ipAddress를 설정해주세요.
   </li>
-  <li> socket_io 서버를 실행해주세요
-  <br/>
-    서버는 별도의 파일로 존재합니다.
-  </li>
+  <li> socket_io 서버를 실행해주세요 (project>server>socket_server.js 파일을 통해 실행할 수 있습니다. node가 필요합니다.)</li>
 </ul>
 
 # Reference
